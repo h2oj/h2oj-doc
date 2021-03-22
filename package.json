@@ -1,0 +1,16 @@
+{
+  "name": "h2oj-doc",
+  "version": "0.1.0",
+  "description": "Hydrogen OJ document.",
+  "main": "index.js",
+  "repository": "git@github.com:hydrogen-oj/h2oj-doc.git",
+  "author": "Hydrogen OJ Team",
+  "license": "AGPL-3.0",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
