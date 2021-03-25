@@ -1,8 +1,9 @@
 module.exports = {
     title: 'Hydrogen OJ Document',
     description: 'To build an efficient online judge system.',
+    base: '/h2oj-doc/',
     themeConfig: {
-        // logo: '/favicon.ico',
+        logo: '/favicon.png',
         nav: [
             { text: '部署', link: '/install/' },
             { text: 'API', link: '/api/' }
