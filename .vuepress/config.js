@@ -30,7 +30,7 @@ module.exports = {
                     title: 'API',
                     collapsable: false,
                     children: [
-                        '/docs/'
+                        '/api/'
                     ],
                 }
             ]
